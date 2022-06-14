@@ -1,0 +1,11 @@
+[server]
+port = 443
+key = "/cert/key.pem"
+cert = "/cert/cert.pem"
+
+[sqlConnection]
+host = "127.0.0.1"
+port = 3306
+database = "projekt3"
+user = "root"
+password = "rootPG9"
